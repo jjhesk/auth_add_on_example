@@ -24,6 +24,8 @@ Get the active campaign banner now
 Server domain guide
 Program visualization design
 
+###Module Dependency
+ - [vCoin SDK bank](https://github.com/jjhesk/v-server-sdk-bank)
 
 ###FAQ
 

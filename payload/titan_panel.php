@@ -64,6 +64,9 @@ if (!class_exists('TitanFramework')) {
         'icon' => 'dashicons-chart-area'
     ));
 
+    $tab = $adminPanel->createTab(array(
+        'name' => __('Campaign Config', HKM_LANGUAGE_PACK),
+    ));
 
     $tab->createOption(array(
         'name' => 'Campaign Setting Example 1',

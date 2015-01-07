@@ -6,7 +6,9 @@
  * Time: 11:27
  */
 namespace payload;
+
 use core\reusable\installation_base;
+
 class installation_campaign extends installation_base
 {
 
@@ -25,6 +27,9 @@ class installation_campaign extends installation_base
     protected function fake_drop_table()
     {
         // TODO: Implement fake_drop_table() method.
+
+        \inno_log_db::log_vcoin_email(-1, 101992, "plugin is DEactivated. for campaign");
+
     }
 
 
@@ -97,6 +102,8 @@ class installation_campaign extends installation_base
             ) $charset_collate;"
         );
 
+
+        \inno_log_db::log_vcoin_email(-1, 101991, "plugin is activated. for campaign");
     }
 
     /**

@@ -28,7 +28,7 @@ class installation_campaign extends installation_base
     {
         // TODO: Implement fake_drop_table() method.
 
-        \inno_log_db::log_vcoin_email(-1, 101992, "plugin is DEactivated. for campaign");
+        \inno_log_db::log_vcoin_error(-1, 101992, "plugin is DEactivated. for campaign");
 
     }
 
@@ -41,6 +41,9 @@ class installation_campaign extends installation_base
         foreach ($this->api_tables as $key => $table) {
             $this->db->query("DROP TABLE IF EXISTS {$table};");
         }
+
+        \inno_log_db::log_vcoin_error(-1, 101992, "plugin is DEactivated. for campaign");
+
     }
 
     /**
@@ -66,6 +69,7 @@ class installation_campaign extends installation_base
     public function create_tables()
     {
         $charset_collate = '';
+
         if ($this->db->has_cap('collation')) {
             $charset_collate .= 'ENGINE=InnoDB AUTO_INCREMENT=727 ';
             if (!empty($this->db->charset))
@@ -103,7 +107,7 @@ class installation_campaign extends installation_base
         );
 
 
-        \inno_log_db::log_vcoin_email(-1, 101991, "plugin is activated. for campaign");
+        \inno_log_db::log_vcoin_error(-1, 101991, "plugin is activated. for campaign");
     }
 
     /**

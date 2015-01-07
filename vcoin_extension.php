@@ -28,7 +28,7 @@ if (!function_exists('package_campaign')):
             }
         }
         payload\installation_campaign::reg_hook(__FILE__);
-        payload\connect_json_api::init();
+        payload\jsonapiconfig::init();
         campaign_cms::init();
     }
 endif;

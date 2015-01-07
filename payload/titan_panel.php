@@ -60,7 +60,7 @@ if (!class_exists('TitanFramework')) {
     //  TitanPanelSetup::setup();
 
     $adminPanel = $titan->createAdminPanel(array(
-        'name' => __('V-COIN', HKM_LANGUAGE_PACK),
+        'name' => __('Campaign Pref.', HKM_LANGUAGE_PACK),
         'icon' => 'dashicons-chart-area'
     ));
 

@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="537cd49c-b954-41f4-8da4-38c2715fd08d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payload/jsonapiconfig.php" />
-      <change type="DELETED" beforePath="C:\CCCHesk\vcoin-extension-campaign\payload\connect_json_api.php" afterPath="" />
-      <change type="MOVED" beforePath="C:\CCCHesk\vcoin-extension-campaign\.idea\auth_add_on_example.iml" afterPath="$PROJECT_DIR$/.idea/Campaign module for vCoin SDK.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/payload/installation.php" afterPath="$PROJECT_DIR$/payload/installation.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/payload/titan_panel.php" afterPath="$PROJECT_DIR$/payload/titan_panel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vcoin_extension.php" afterPath="$PROJECT_DIR$/vcoin_extension.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="537cd49c-b954-41f4-8da4-38c2715fd08d" name="Default" comment="" />
     <ignored path="auth_add_on_example.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />

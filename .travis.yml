@@ -117,7 +117,7 @@ notifications:
 
 # wordpress-plugin-tests specific config
 # Tells Travis CI not to run unit tests against the setup branch
-branches:
-    except:
-        - setup
+# branches:
+#    except:
+#       - setup
 

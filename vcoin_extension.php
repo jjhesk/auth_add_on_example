@@ -11,9 +11,9 @@
 define('VCOIN_CAMPAIGN_PATH', dirname(__FILE__));
 define('VCOIN_CAMPAIGN_INSTANCE_NAME', 'vcoincampaign');
 define("HKM_GAME_CAMPAIGN", "campaign");
-
-if (!function_exists('after_vcoin_setup')):
-    function after_vcoin_setup()
+add_action('after_vcoin_setup', 'package_campaign', 10);
+if (!function_exists('package_campaign')):
+    function package_campaign()
     {
         $destinations = array(
             'payload',
@@ -30,8 +30,5 @@ if (!function_exists('after_vcoin_setup')):
         payload\installation_campaign::reg_hook(__FILE__);
         payload\connect_json_api::init();
         campaign_cms::init();
-        /**
-         *
-         */
     }
 endif;

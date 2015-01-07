@@ -2,7 +2,7 @@
 /*
   Plugin Name: Vcoin Addon Campaign
   Plugin URI: https://github.com/jjhesk/authserver
-  Description: In order to run this module the server will need to activate the mentioned modules as list below: Titan Framework, WordPress Importer, Meta Box, JSON API, JSON API Auth, Email Login, Gravity Forms
+  Description: This module will absolutely depend on vcoin server core module
   Version: 1.01
   Author: Hesk
   Author URI:

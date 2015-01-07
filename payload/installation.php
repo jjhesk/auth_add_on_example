@@ -9,8 +9,6 @@ namespace payload;
 use core\reusable\installation_base;
 class installation_campaign extends installation_base
 {
-    private $db;
-    private $api_tables;
 
     function __construct()
     {

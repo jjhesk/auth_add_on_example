@@ -1,4 +1,4 @@
-#Vcoin Server Add-On campaign [![Code Climate](https://codeclimate.com/github/jjhesk/vcoin-extension-campaign/badges/gpa.svg)](https://codeclimate.com/github/jjhesk/vcoin-extension-campaign)
+#Vcoin Server Add-On campaign [![Code Climate](https://codeclimate.com/github/jjhesk/vcoin-extension-campaign/badges/gpa.svg)](https://codeclimate.com/github/jjhesk/vcoin-extension-campaign) [![Build Status](https://travis-ci.org/jjhesk/vcoin-extension-campaign.svg?branch=master)](https://travis-ci.org/jjhesk/vcoin-extension-campaign)
 
 ##Feature
 1. online voting

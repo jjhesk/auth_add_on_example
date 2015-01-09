@@ -8,16 +8,14 @@
       <library name="PHP">
         <CLASSES>
           <root url="file://$MODULE_DIR$/../wordpress-4.1" />
-          <root url="file://$MODULE_DIR$/../DROPBOX/github_code/meta-box" />
-          <root url="file://$MODULE_DIR$/../json-api-auth-Wordpress" />
           <root url="file://$MODULE_DIR$/../Titan-Framework" />
+          <root url="file://$MODULE_DIR$/../json-api-auth-Wordpress" />
           <root url="file://$MODULE_DIR$/../v-server-sdk-bank" />
         </CLASSES>
         <SOURCES>
           <root url="file://$MODULE_DIR$/../wordpress-4.1" />
-          <root url="file://$MODULE_DIR$/../DROPBOX/github_code/meta-box" />
-          <root url="file://$MODULE_DIR$/../json-api-auth-Wordpress" />
           <root url="file://$MODULE_DIR$/../Titan-Framework" />
+          <root url="file://$MODULE_DIR$/../json-api-auth-Wordpress" />
           <root url="file://$MODULE_DIR$/../v-server-sdk-bank" />
         </SOURCES>
       </library>

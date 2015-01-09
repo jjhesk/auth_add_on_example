@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="537cd49c-b954-41f4-8da4-38c2715fd08d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="537cd49c-b954-41f4-8da4-38c2715fd08d" name="Default" comment="" />
     <ignored path="auth_add_on_example.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -27,21 +24,7 @@
     <favorites_list name="auth_add_on_example" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.10672854" vertical-offset="0" max-vertical-offset="1127">
-              <caret line="0" column="336" selection-start-line="0" selection-start-column="336" selection-end-line="0" selection-end-column="336" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -219,7 +202,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="712" y="0" width="1138" height="1080" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -482,8 +465,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10672854" vertical-offset="0" max-vertical-offset="1127">
-          <caret line="0" column="336" selection-start-line="0" selection-start-column="336" selection-end-line="0" selection-end-column="336" />
+        <state vertical-scroll-proportion="0.026682135" vertical-offset="0" max-vertical-offset="1127">
+          <caret line="0" column="125" selection-start-line="0" selection-start-column="125" selection-end-line="0" selection-end-column="125" />
           <folding />
         </state>
       </provider>
